@@ -14,6 +14,7 @@ public class Facebook {
  		password.sendKeys("Vishal");
  		WebElement login = driver.findElement(By.name("login"));
  		login.click();
+		//this change has been done in GitHub
 	}
 
 }
